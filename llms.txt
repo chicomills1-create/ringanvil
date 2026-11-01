@@ -1,0 +1,26 @@
+# RingAnvil
+
+> RingAnvil is an AI call-answering and lead-follow-up service for trades businesses (plumbing, HVAC, roofing, electrical). It is a brand of Apex Grid Engineering PLLC, based in Queen Creek, Arizona. Contact: info@ringanvil.com
+
+## What it does
+- Answers inbound calls in the customer's business name, 24/7 or as overflow/after-hours cover
+- Captures a structured lead (name, contact, service address, problem, urgency) and qualifies it against the business's service area and job-fit rules
+- Books real appointment slots on the business's calendar rules, or promises a callback window
+- Follows up the business's own inbound leads by call/text with consent controls (STOP honoured instantly; no cold outbound calling, ever)
+- Hands every interaction back: summary, transcript/recording where lawful, booking, and an exception queue
+
+## Rules it operates under
+- Every call opens with a recorded-call disclosure
+- The assistant identifies itself as automated when asked; it never claims to be a human employee
+- Scripted emergencies route to the business's on-call number; danger to life is directed to 911 first
+- It is a receptionist, not a technician: no diagnosis or pricing beyond the business's approved script and published rates
+
+## Pilot pricing (test pricing)
+- Overflow: $299/mo + $500 setup — 500 minutes included, $0.25/min overage
+- Full Desk: $499/mo + $1,000 setup — 1,250 minutes included, $0.22/min overage
+- Full Desk + Follow-Up: $799/mo + $1,000 setup — 2,000 minutes included, 500 text segments included, $0.22/min overage
+
+## Pages
+- https://ringanvil.com/ — overview, call demo (interactive simulation), plans, pilot request
+- https://ringanvil.com/privacy.html — privacy policy
+- https://ringanvil.com/terms.html — pilot terms
