@@ -2,7 +2,7 @@
 
 > RingAnvil is an AI call-answering and lead-follow-up service for trades businesses (plumbing, HVAC, roofing, electrical). It is a brand of Apex Grid Engineering PLLC, based in Queen Creek, Arizona. Contact: info@ringanvil.com
 
-Founder: Jeremy “Chico” Mills — Founder & CEO. Serial entrepreneur · USAF veteran. Jeremy Mills is the founder and owner of 10+ companies, led by Apex Grid Engineering. An Apex Grid Engineering PLLC company. Operations directed by Muse — AI Director of Operations.
+Founder: Jeremy “Chico” Mills — Founder & CEO. Serial entrepreneur · USAF veteran. Jeremy Mills is the founder and owner of 10+ companies, led by Apex Grid Engineering. An Apex Grid Engineering PLLC company.
 
 ## What it does
 - Answers inbound calls in the customer's business name, 24/7 or as overflow/after-hours cover
