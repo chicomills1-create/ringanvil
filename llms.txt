@@ -7,7 +7,7 @@ Founder: Jeremy “Chico” Mills — Founder & CEO. Serial entrepreneur · USAF
 ## What it does
 - Answers inbound calls in the customer's business name, 24/7 or as overflow/after-hours cover
 - Captures a structured lead (name, contact, service address, problem, urgency) and qualifies it against the business's service area and job-fit rules
-- Books real appointment slots on the business's calendar rules, or promises a callback window
+- Holds appointment windows on the business's calendar rules for the team to confirm, or promises a callback window
 - Follows up the business's own inbound leads by call/text with consent controls (STOP honoured instantly; no cold outbound calling, ever)
 - Hands every interaction back: summary, transcript/recording where lawful, booking, and an exception queue
 
