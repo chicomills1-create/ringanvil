@@ -22,6 +22,13 @@ Founder: Jeremy “Chico” Mills — Founder & CEO. Serial entrepreneur · USAF
 - Full Desk: $499/mo + $1,000 setup — 1,250 minutes included, $0.22/min overage
 - Full Desk + Follow-Up: $799/mo + $1,000 setup — 2,000 minutes included, 500 text segments included, $0.22/min overage
 
+## Frequently asked questions
+- What does RingAnvil do? For pilot shops, RingAnvil answers calls in the business's name, captures a structured lead (name, contact, service address, problem, urgency), qualifies it against the business's service area and rules, holds an appointment window on the business's calendar rules for the team to confirm, and hands every interaction back with a summary and transcript.
+- Are callers told the call is recorded and handled by an AI? Yes. Every call opens with a recorded-call disclosure, in every state. The assistant identifies itself as an automated assistant for the business whenever asked and never claims to be a human employee.
+- What happens on an emergency call? Scripted urgent categories route immediately to the business's on-call number. Callers in danger to life are directed to call 911 first. RingAnvil is not an emergency or dispatch service and never attempts to handle a life-safety emergency itself.
+- Does RingAnvil make cold outbound calls? Never. Follow-up calls and texts go only to people who contacted the business first. Text follow-up honours STOP instantly and permanently and respects quiet hours in the recipient's timezone.
+- How much does RingAnvil cost? Pilot pricing: Overflow $299 per month plus $500 setup (500 minutes included, $0.25 per minute overage); Full Desk $499 per month plus $1,000 setup (1,250 minutes included, $0.22 overage); Full Desk + Follow-Up $799 per month plus $1,000 setup (2,000 minutes and 500 text segments included, $0.22 overage).
+
 ## Pages
 - https://ringanvil.com/ — overview, call demo (interactive simulation), plans, pilot request
 - https://ringanvil.com/privacy.html — privacy policy
