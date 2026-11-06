@@ -47,6 +47,11 @@ body.menu-open{overflow:hidden}
 .nav-links .btn{margin-top:20px}
 .menu-close{display:grid;place-items:center;position:absolute;top:16px;right:19px;width:42px;height:42px;border-radius:9px;border:1px solid var(--line-strong);background:transparent;color:inherit;font-size:19px;cursor:pointer}
 }
+@media(max-width:480px){
+.hf-row{flex-direction:column;gap:2px}
+.hf-row span{text-align:left}
+.hf-row b{white-space:normal}
+}
 </style>
 </head><body data-brand="RingAnvil" data-domain="ringanvil.com"><div class="page">
 <header class="site-header"><div class="shell nav"><a href="#top" class="brand"><span class="brand-mark"><svg viewBox="0 0 38 38" width="38" height="38" aria-hidden="true"><rect width="38" height="38" rx="11" fill="#ff6435"/><path d="M12 11h12l4 5-4 6H12l-3-6 3-5zm-2 15h18M19 22v5" fill="none" stroke="#1d1717" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M5 8l3-2m22 2 3-2" stroke="#1d1717" stroke-width="2.7" stroke-linecap="round"/></svg></span>Ring<span class="anvil">Anvil</span></a><button id="menuBtn" class="menu" aria-label="Toggle menu" aria-expanded="false">☰</button><nav class="nav-links" id="navLinks"><button type="button" id="menuClose" class="menu-close" aria-label="Close menu">✕</button><a href="#how">How it works</a><a href="#demo">Call demo</a><a href="#plans">Plans</a><a href="#faq">FAQ</a><a class="btn btn-primary" href="#access">Get early access ↗</a></nav></div></header><main id="top">
