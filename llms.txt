@@ -8,7 +8,7 @@ Founder: Jeremy “Chico” Mills — Founder & CEO. Serial entrepreneur · USAF
 - Answers inbound calls in the customer's business name, 24/7 or as overflow/after-hours cover
 - Captures a structured lead (name, contact, service address, problem, urgency) and qualifies it against the business's service area and job-fit rules
 - Holds appointment windows on the business's calendar rules for the team to confirm, or promises a callback window
-- Follows up the business's own inbound leads by call/text with consent controls (STOP honoured instantly; no cold outbound calling, ever)
+- Follows up the business's own inbound leads by call/text with consent controls (STOP honoured by design; no cold outbound calling, ever)
 - Hands every interaction back: summary, transcript/recording where lawful, booking, and an exception queue
 
 ## Rules it operates under
@@ -23,10 +23,10 @@ Founder: Jeremy “Chico” Mills — Founder & CEO. Serial entrepreneur · USAF
 - Full Desk + Follow-Up: $799/mo + $1,000 setup — 2,000 minutes included, 500 text segments included, $0.22/min overage
 
 ## Frequently asked questions
-- What does RingAnvil do? For pilot shops, RingAnvil answers calls in the business's name, captures a structured lead (name, contact, service address, problem, urgency), qualifies it against the business's service area and rules, holds an appointment window on the business's calendar rules for the team to confirm, and hands every interaction back with a summary and transcript.
-- Are callers told the call is recorded and handled by an AI? Yes. Every call opens with a recorded-call disclosure, in every state. The assistant identifies itself as an automated assistant for the business whenever asked and never claims to be a human employee.
-- What happens on an emergency call? Scripted urgent categories route immediately to the business's on-call number. Callers in danger to life are directed to call 911 first. RingAnvil is not an emergency or dispatch service and never attempts to handle a life-safety emergency itself.
-- Does RingAnvil make cold outbound calls? Never. Follow-up calls and texts go only to people who contacted the business first. Text follow-up honours STOP instantly and permanently and respects quiet hours in the recipient's timezone.
+- What does RingAnvil do? For pilot shops, RingAnvil answers calls in the business's name, captures a structured lead (name, contact, service address, problem, urgency), qualifies it against the business's service area and rules, holds an appointment window on the business's calendar rules for the team to confirm, and, in the pilot workflow, hands every interaction back with a summary and transcript.
+- Are callers told the call is recorded and handled by an AI? Yes. Disclosure first, identity clear: every pilot call is designed to open with a recorded-call disclosure, and the assistant identifies itself as an automated assistant for the business whenever asked. It never claims to be a human employee.
+- What happens on an emergency call? Urgent categories are screened first. For pilot shops, the workflow is designed to route urgent calls to the business's on-call number. Callers in danger to life are directed to call 911 first. RingAnvil is not an emergency or dispatch service and never attempts to handle a life-safety emergency itself.
+- Does RingAnvil make cold outbound calls? Never. Follow-up runs only as a configured pilot workflow: calls and texts go only to people who contacted your business first. Text follow-up honours STOP by design — instantly and permanently — and respects quiet hours in the recipient's timezone.
 - How much does RingAnvil cost? Pilot pricing: Overflow $299 per month plus $500 setup (500 minutes included, $0.25 per minute overage); Full Desk $499 per month plus $1,000 setup (1,250 minutes included, $0.22 overage); Full Desk + Follow-Up $799 per month plus $1,000 setup (2,000 minutes and 500 text segments included, $0.22 overage).
 
 ## Pages
